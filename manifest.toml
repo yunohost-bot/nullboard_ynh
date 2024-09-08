@@ -5,7 +5,7 @@ name = "Nullboard"
 description.en = "Minimalist kanban board, focused on compactness and readability"
 description.fr = "Kanban minimaliste, axé sur la compacité et la lisibilité"
 
-version = "2023.11.05~ynh1"
+version = "2023.11.05~ynh2"
 
 maintainers = []
 
